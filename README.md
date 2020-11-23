@@ -1,6 +1,6 @@
-## Buscas em Árvore Binária
+# Buscas em Árvore Binária
 
-# Árvore binária
+## Árvore binária
 
 Uma árvore binária, de acordo com Mizrahi (2008), é um conjunto de registros ou nós em
 forma de estrutura de dados que satisfaz determinadas condições e é caracterizado por:
@@ -10,7 +10,7 @@ forma de estrutura de dados que satisfaz determinadas condições e é caracteri
 descendentes ou filhos;
 • Uma distinção entre uma subárvore esquerda e uma subárvore direita.
 
-# Buscas em árvore
+## Buscas em árvore
 
 As buscas em árvores são estabelecidas pelos percursos que seguimos para percorrer
 os nós dessa árvore.
@@ -23,7 +23,7 @@ métodos:
 • Busca em profundidade (DFS – depth-first search);
 • Busca em largura (BFS – breadth-first search).
 
-# Busca em profundidade
+## Busca em profundidade
 
 A busca em profundidade pode adotar três técnicas distintas para explorar esses
 percursos:
